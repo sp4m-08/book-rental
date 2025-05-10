@@ -40,7 +40,7 @@ cd Booklease
 #### **Frontend**
 
 ```bash
-cd frontend
+cd bookrental_main
 npm install
-npm start
+npm run dev
 ```
