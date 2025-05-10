@@ -44,3 +44,10 @@ cd bookrental_main
 npm install
 npm run dev
 ```
+
+## 📌 Work Left
+
+- ✅ **UI** has been done with a standard text template.
+- 🔄 **Backend Integration** is yet to be implemented.
+
+
